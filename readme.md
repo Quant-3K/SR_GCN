@@ -153,13 +153,6 @@ This repository is intended for:
 
 ---
 
-## License and Usage
-
-This work is provided for research, audit, and evaluation purposes.  
-Any reuse in production or safety-critical systems requires independent validation.
-
----
-
 ## Closing Statement
 
 Machine learning systems should not be trusted because they perform well on average.
@@ -167,4 +160,5 @@ Machine learning systems should not be trusted because they perform well on aver
 They should be trusted **only if their failure modes are observable, bounded, and governable**.
 
 This repository is a concrete, reproducible step in that direction.
+Contact: artem@quant-trika.org
 
