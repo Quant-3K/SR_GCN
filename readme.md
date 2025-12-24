@@ -1,4 +1,4 @@
-# SR-GCN: Audit-First Regulated Graph Convolutional Network
+# SR-GCN: Regulated Graph Convolutional Network
 
 ## Executive Positioning
 
